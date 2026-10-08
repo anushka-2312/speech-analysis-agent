@@ -1,0 +1,6 @@
+streamlit>=1.52
+faster-whisper>=1.0.3
+groq>=0.30
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
